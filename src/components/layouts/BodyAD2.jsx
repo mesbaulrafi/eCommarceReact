@@ -1,6 +1,6 @@
 import React from 'react'
 import Containar from '/src/components/Containar'
-import Image from '../Image'
+import Image from '/src/components/Image'
 import BodyAd2 from '/src/assets/bAD2.jpg'
 import Button from '/src/components/Button'
 import { Link } from 'react-router-dom'

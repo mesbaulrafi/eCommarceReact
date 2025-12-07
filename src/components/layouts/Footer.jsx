@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../Button";
 import Containar from "../Containar";
 import Flex from "../Flex";
 import { Link } from "react-router-dom";
